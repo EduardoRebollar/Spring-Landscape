@@ -1,2 +1,2 @@
 # Spring-Landscape
-This is a project that I worked on for my Comp 131 Fundamentals of CS class.
+This is an unfinished project that I am working on that draws a Spring Landscape.
